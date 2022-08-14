@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YKGHOST
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity C# and Unreal Engine
-- 💞️ I’m looking to collaborate on Game Development 
+- 👀 I’m interested in Game And Web Development
+- 🌱 I’m currently learning Unity C#, Unreal Engine and Web Development 
+- 💞️ I’m looking to collaborate on Game and Web Development 
 - 📫 How to reach me ghostdojo20@gmail.com
 
 <!---
